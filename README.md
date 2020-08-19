@@ -3,5 +3,5 @@
 Hi, I'm Samuel😀.
  A guy from Germany, who tries to code.
  
- ## I currently work on:
- - Learning JavaScript
+ ## I currently learn:
+ - JavaScript
