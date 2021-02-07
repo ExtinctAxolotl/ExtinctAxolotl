@@ -5,4 +5,5 @@ Hi, I'm Samuel😀.
  
  ## I currently learn:
  - Python
-[![deepspacebird's github stats](https://github-readme-stats.vercel.app/api?username=deepspacebird&show_icons=true&theme=gruvbox)](https://github.com/deepspacebird)
+ 
+[![deepspacebird's github stats](https://github-readme-stats.vercel.app/api?username=deepspacebird&show_icons=true&theme=onedark)](https://github.com/deepspacebird)
