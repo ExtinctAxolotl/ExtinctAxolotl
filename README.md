@@ -6,10 +6,17 @@ Hi, I'm Samuel😀.
  ## I currently learn:
  - Python
  
- ## I have coded in:
- - Python
- - Bash
- - JavaScript
- - C# (.NET Framework)
  
-[![deepspacebird's github stats](https://github-readme-stats.vercel.app/api?username=deepspacebird&show_icons=true&theme=onedark)](https://github.com/deepspacebird)
+[![deepspacebird's github stats](https://github-readme-stats.vercel.app/api?username=deepspacebird&show_icons=true)](https://github.com/deepspacebird)
+
+
+# My latest Projects:
+## Planet Update
+An Update command for ubuntu.
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepspacebird&repo=planet-update&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+# Languages used:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepspacebird&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
