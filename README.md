@@ -8,7 +8,7 @@ Hi, I'm Samuel😀.
  
  
  
-[![deepspacebird's github stats](https://github-readme-stats.vercel.app/api?username=deepspacebird&show_icons=true)](https://github.com/deepspacebird)
+[![deepspacebird's github stats](https://github-readme-stats.vercel.app/api?username=ExtinctAxolotl&show_icons=true&theme=nord)](https://github.com/deepspacebird)
 
 
 # My latest Projects:
@@ -16,8 +16,8 @@ Hi, I'm Samuel😀.
 An Update command for ubuntu.
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepspacebird&repo=planet-update&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ExtinctAxolotl&repo=planet-update&show_owner=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 # Languages used:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepspacebird&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtinctAxolotl&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
