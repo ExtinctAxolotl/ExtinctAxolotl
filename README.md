@@ -1,7 +1,7 @@
 # Hello There 👋
 
 Hi, I'm Samuel😀.
- A guy from Germany, who codes and puts the things on GitHub. I'm 14 btw.
+ A guy from Germany, who codes and puts the things on GitHub. Born in 2006.
  
  ## I currently learn:
  - Python
