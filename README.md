@@ -1,7 +1,8 @@
 # Hello There 👋
 
-Hi, I'm Samuel😀.
- A guy from Germany, who builds stuff and puts the incredibly **awesome** ~~*bad*~~ things on GitHub. Born in 2006.
+Hi, I'm Samuel😀.  
+A guy from Germany, who builds stuff and puts the ~~*bad*~~ **incredible** **code quality** on GitHub.
+ 
  
  ## I currently learn:
  - Python
