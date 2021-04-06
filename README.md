@@ -9,7 +9,7 @@ A guy from Germany, who builds stuff and puts the ~~*bad*~~ **incredible** **cod
   
 # Languages I have worked with:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtinctAxolotl&layout=compact&theme=nord)](https://github.com/ExinctAxolotl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtinctAxolotl&theme=nord)](https://github.com/ExinctAxolotl)
   
 
 [![deepspacebird's github stats](https://github-readme-stats.vercel.app/api?username=ExtinctAxolotl&show_icons=true&theme=nord)](https://github.com/ExtinctAxolotl)
