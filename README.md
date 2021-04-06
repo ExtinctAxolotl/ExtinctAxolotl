@@ -7,7 +7,7 @@ A guy from Germany, who builds stuff and puts the ~~*bad*~~ **incredible** **cod
 1. [vala](https://wiki.gnome.org/Projects/Vala)
 1. [rust](https://rust-lang.org)
   
-# Languages I have used to write error boxes 😜
+# Languages I have used to write errors 😜
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtinctAxolotl&theme=nord)](https://github.com/ExinctAxolotl)
   
 
