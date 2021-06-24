@@ -75,23 +75,9 @@
 					animation: rotate ease-in-out 1s infinite alternate;
 				}
 
-				h2 {
-					font-size: 35px;
-					line-height: 1.2;
-					letter-spacing: 4px;
-					text-transform: uppercase;
-					text-shadow:
-						0 1px 0 #efefef,
-						0 2px 0 #efefef,
-						0 3px 0 #efefef,
-						0 4px 0 #efefef,
-						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: rotate ease-in-out 1s infinite alternate;
-				}
 			</style>
 			<div class="container">
-				<h1>Hey, I'm Samuel!<br>I'm a 14 year old who likes to code</h1>
-                <h2>Thanks for reading!</h2>
+				<h1>C O D E !</h1>
 			</div>
 		</div>
 	</foreignObject>
