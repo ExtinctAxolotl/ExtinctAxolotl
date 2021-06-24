@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="./animation.svg">
+    <img src="https://raw.githubusercontent.com/ExtinctAxolotl/ExtinctAxolotl/main/animation.svg">
 </div>
