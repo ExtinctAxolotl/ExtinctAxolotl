@@ -9,6 +9,13 @@ A 14 year old from Germany, who builds stuff and puts the ~~*bad*~~ **incredible
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtinctAxolotl&theme=onedark", href="https://github.com/ExtinctAxolotl">
 </div>  
+<p>
+  
+  
+  
+  
+  
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ExtinctAxolotl&show_icons=true&theme=onedark", href="https://github.com/ExtinctAxolotl">
