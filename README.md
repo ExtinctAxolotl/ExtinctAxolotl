@@ -1,7 +1,7 @@
 # Hello There 👋
 
 Hi, I'm Samuel 😃.  
-A guy from Germany, who builds stuff and puts the ~~*bad*~~ **incredible** **code quality** on GitHub.
+A guy from Germany, who builds stuff and puts the ~~*bad*~~ **incredible** **code** on GitHub.
 
 # Languages I wan't to learn (sorted by "priority"):
 1. [vala](https://wiki.gnome.org/Projects/Vala)
